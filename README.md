@@ -11,5 +11,4 @@ For each correctly answered question in the easy category, the user earns 10 poi
 20 points for questions in the medium category and 30 points for those in the difficult category.
 Incorrectly answered questions do not result in any negative points.
 
-https://github.com/KastratiTalia/Trivia-Game/assets/93604292/fdbe2d48-ab86-4fd9-97e3-1542665aabf4
-
+https://github.com/KastratiTalia/Trivia-Game/assets/93604292/c5e53f17-02f0-4fcd-9005-9787cd14139e

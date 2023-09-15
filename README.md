@@ -1,6 +1,5 @@
-Trivia-Game ( Vue 3)
-
-Project Description
+**Trivia-Game ( Vue 3)**
+**Project Description**
 Trivia Game is an interactive application that offers users a selection of 24 distinct categories.
 Users are able to choose between four difficulty levels: easy, medium, difficult, or a random mix. Points
 are awarded based on their answers.
@@ -12,4 +11,5 @@ For each correctly answered question in the easy category, the user earns 10 poi
 20 points for questions in the medium category and 30 points for those in the difficult category.
 Incorrectly answered questions do not result in any negative points.
 
-https://github.com/KastratiTalia/Trivia-Game/assets/93604292/a0e75ac4-18e2-4868-be59-7e328453523d
+https://github.com/KastratiTalia/Trivia-Game/assets/93604292/fdbe2d48-ab86-4fd9-97e3-1542665aabf4
+
